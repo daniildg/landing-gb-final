@@ -1133,13 +1133,14 @@ p, a {
 
   .promotion {
     max-width: 375px;
-    height: 781px;
-    padding: 99px 0 50px 0;
+    height: 730px;
+    padding: 99px 0 128px 0;
     background-image: url(../img/mobile-promo-bg.svg);
   }
 
   .promotion-front {
     max-width: 335px;
+    height: 503px;
     width: 100%;
     margin: 0 auto;
 
@@ -1197,7 +1198,7 @@ p, a {
   }
 
   .main {
-    padding: 0;
+    padding: 50px 0 35px 0;
   }
 
   .features {
@@ -1345,7 +1346,7 @@ p, a {
   
   .signup {
     max-width: 375px;
-    margin: 34px 0 35px 0;
+    margin: 34px 0 0 0;
     display: block;
     background-image: none;
   }
